@@ -1,0 +1,45 @@
+c
+c Renamed file of majority.cnf 
+c Variables are renamed according to left2right.ord 
+c
+c Date: Thu Apr 29 14:49:50 PDT 2004 by (jinbo)
+c Host: Linux solution 2.4.18-4smp #1 SMP Thu May 2 18:32:34 EDT 2002 i686 unknown
+c
+c Copyright (c) 2001 Fadi A. Aloul.
+c
+p cnf 14 35
+-3 -2 0
+2 3 0
+-2 1 0
+-1 2 0
+-9 -8 0
+-11 -8 0
+-10 -8 0
+8 9 11 10 0
+-8 3 0
+-9 -14 0
+-11 -14 0
+-13 -14 0
+14 9 11 13 0
+-14 3 0
+-9 -12 0
+-10 -12 0
+-13 -12 0
+12 9 10 13 0
+-12 3 0
+-9 -7 0
+-11 -7 0
+-5 -7 0
+7 9 11 5 0
+-7 3 0
+-9 -6 0
+-10 -6 0
+-5 -6 0
+6 9 10 5 0
+-6 3 0
+-9 -4 0
+-13 -4 0
+-5 -4 0
+4 9 13 5 0
+-4 3 0
+-3 8 14 12 7 6 4 0
